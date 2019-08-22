@@ -1,0 +1,22 @@
+
+  .food-section{
+    background-color: purple;
+  }
+
+  .my-name{
+    background-color: red;
+  }
+
+  .fave-food{
+    background-color: orange;
+  }
+
+li { color: text}
+
+h3 {
+  text-align: center;
+}
+
+.food-section > h3 {
+  color: yellow; font-size: 50px
+}
